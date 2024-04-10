@@ -2,7 +2,7 @@
 
 ## About Me
 - 💼 Industrial Engineer turned Reinforcement Learning Engineer
-- 🔬 Exploring RL applications to transport optimization
+- 🔬 Exploring RL applications on transport optimization
 
 ## My Expertise
 - 👨‍💻 Primary focus on Machine Learning, especially Reinforcement Learning
