@@ -10,6 +10,6 @@
 - 🧰 Familiar with Python frameworks such as Pandas, NumPy, Scikit-learn, Tensorflow, Pytorch, RLlib, stable-baselines3...
 
 ## Get in Touch
-- 📫 You can reach me via email at [ciro.navarro.aceto@businessinsights.com](mailto:ciro.navarro.aceto@businessinsights.com)
+- 📫 You can reach me via email at [ciro.navarro.aceto@businessinsights.com](mailto:ciro.acetonavarro@thoughtworks.com)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/cironavarroaceto/)
 
